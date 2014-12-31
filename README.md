@@ -4,7 +4,7 @@ Neubeat
 The Jubeatist Project &lt;Neubeat> by Evaaans
 
 百度Jubeat吧吧友Evaaans创建的跨平台练习器计划  
-（For more details -> http://tieba.baidu.com/p/2908318494）  
+For more details -> http://tieba.baidu.com/p/2908318494  
 
 由于UP主本人工作繁忙一直无暇维护，故于2014年12月开放源代码（MIT License）分享给有兴♂趣的朋友！  
 游戏核心编写于2014年3月，使用引擎为Cocos2dx 3.0 rc0  
