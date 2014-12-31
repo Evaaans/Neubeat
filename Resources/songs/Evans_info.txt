@@ -1,0 +1,14 @@
+[NAME]
+Evans
+
+[ARTIST]
+DJ YOSHITAKA
+
+[BASIC]
+0
+
+[ADVANCED]
+0
+
+[EXTREME]
+10

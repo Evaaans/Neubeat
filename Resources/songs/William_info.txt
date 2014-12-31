@@ -1,0 +1,14 @@
+[NAME]
+William Tell Overture
+
+[ARTIST]
+Rossini
+
+[BASIC]
+3
+
+[ADVANCED]
+7
+
+[EXTREME]
+9

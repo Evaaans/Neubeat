@@ -1,0 +1,14 @@
+[NAME]
+PONPONPON
+
+[ARTIST]
+Kyarypamyupamyu
+
+[BASIC]
+0
+
+[ADVANCED]
+0
+
+[EXTREME]
+7

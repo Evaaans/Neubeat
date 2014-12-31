@@ -1,0 +1,14 @@
+[NAME]
+Stand Alone Beat Masta
+
+[ARTIST]
+GUHROOVY
+
+[BASIC]
+0
+
+[ADVANCED]
+0
+
+[EXTREME]
+10
